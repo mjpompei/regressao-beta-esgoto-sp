@@ -24,12 +24,12 @@ O modelo apresentou uma excelente qualidade de ajustamento, com um Pseudo-$R^2$ 
 A infraestrutura de abastecimento de água emergiu como o preditor positivo mais forte, evidenciando o acoplamento da expansão das redes subterrâneas. A tabela abaixo com as Razões de Chances (OR) e Intervalos de Confiança (IC 95%) indica que um aumento de um desvio padrão na variável água está associado com uma multiplicação de aproximadamente 2,27 vezes na proporção esperada de cobertura de esgoto, **evidenciando que as obras de saneamento subterrâneo
 e de distribuição hídrica expandem-se de forma conjunta.** 
 
-<img width="427" height="316" alt="image" src="https://github.com/user-attachments/assets/cbe43afe-68ec-485a-bf3a-52ef9e6611f6" />
+<img width="433" height="307" alt="image" src="https://github.com/user-attachments/assets/e4ec154b-41cc-4524-914d-8866712cbc56" />
 
 #### 3. **Heterogeneidade e Influência:** 
 Uma rigorosa análise de diagnóstico (Distância de Cook, Influência Local e Alavancagem) identificou 104 municípios atípicos. A análise de sensibilidade comprovou que 97,4% da Região Metropolitana de São Paulo (RMSP) atua como um polo de alavancagem, refletindo a profunda desigualdade territorial e o "Paradoxo Metropolitano" (superadensamento vs. vastas áreas rurais). A sumarização dessas observações influentes está explícita na tabela abaixo.
   
-<img width="726" height="145" alt="image" src="https://github.com/user-attachments/assets/da9ccaac-5991-4131-87d0-59a0aeb50885" />
+<img width="733" height="143" alt="image" src="https://github.com/user-attachments/assets/fd950405-0a8d-463a-92ee-4473f6ac7a69" />
 
 ---
 
